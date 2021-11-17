@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/6w7jwucs3pcwogwl?svg=true)](https://ci.appveyor.com/project/JaneGame/homeworkauto4)
